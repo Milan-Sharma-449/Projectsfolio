@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio-react/projects/static/css/main.0a95a400.css",
-    "main.js": "/Portfolio-react/projects/static/js/main.d723804b.js",
-    "static/media/foodies-hub.png": "/Portfolio-react/projects/static/media/foodies-hub.cde964e9970cd77e877d.png",
-    "static/media/portfolio.png": "/Portfolio-react/projects/static/media/portfolio.c4aa9eea3bb439ed0220.png",
-    "static/media/code_editor.png": "/Portfolio-react/projects/static/media/code_editor.dce914d178c3f1822055.png",
-    "static/media/golds-gym.png": "/Portfolio-react/projects/static/media/golds-gym.fea806e6bacd85fe3acc.png",
-    "static/media/project-1.jpg": "/Portfolio-react/projects/static/media/project-1.23659d0b0e867954a8a7.jpg",
-    "static/media/sakila_project.jpg": "/Portfolio-react/projects/static/media/sakila_project.9cef989dc7fef1c31f93.jpg",
-    "static/media/internship_hrc.webp": "/Portfolio-react/projects/static/media/internship_hrc.a0fe437474b25c200bb2.webp",
-    "static/media/chat_app.jpeg": "/Portfolio-react/projects/static/media/chat_app.ed9254a4eaa92ad069c2.jpeg",
-    "static/media/tictactoe.png": "/Portfolio-react/projects/static/media/tictactoe.3331df9cbd8dc94064e0.png",
-    "static/media/Connect4.jpeg": "/Portfolio-react/projects/static/media/Connect4.c9a1f5dfeaae023bedef.jpeg",
-    "static/media/project-3.jpg": "/Portfolio-react/projects/static/media/project-3.6ecee75124496fb9762f.jpg",
-    "static/media/temperature.jpg": "/Portfolio-react/projects/static/media/temperature.2e236e66d04120a4a8e0.jpg",
-    "index.html": "/Portfolio-react/projects/index.html",
-    "main.0a95a400.css.map": "/Portfolio-react/projects/static/css/main.0a95a400.css.map",
-    "main.d723804b.js.map": "/Portfolio-react/projects/static/js/main.d723804b.js.map"
+    "main.css": "/Projectsfolio/static/css/main.0a95a400.css",
+    "main.js": "/Projectsfolio/static/js/main.e4e4329e.js",
+    "static/media/foodies-hub.png": "/Projectsfolio/static/media/foodies-hub.cde964e9970cd77e877d.png",
+    "static/media/portfolio.png": "/Projectsfolio/static/media/portfolio.c4aa9eea3bb439ed0220.png",
+    "static/media/code_editor.png": "/Projectsfolio/static/media/code_editor.dce914d178c3f1822055.png",
+    "static/media/golds-gym.png": "/Projectsfolio/static/media/golds-gym.fea806e6bacd85fe3acc.png",
+    "static/media/project-1.jpg": "/Projectsfolio/static/media/project-1.23659d0b0e867954a8a7.jpg",
+    "static/media/sakila_project.jpg": "/Projectsfolio/static/media/sakila_project.9cef989dc7fef1c31f93.jpg",
+    "static/media/internship_hrc.webp": "/Projectsfolio/static/media/internship_hrc.a0fe437474b25c200bb2.webp",
+    "static/media/chat_app.jpeg": "/Projectsfolio/static/media/chat_app.ed9254a4eaa92ad069c2.jpeg",
+    "static/media/tictactoe.png": "/Projectsfolio/static/media/tictactoe.3331df9cbd8dc94064e0.png",
+    "static/media/Connect4.jpeg": "/Projectsfolio/static/media/Connect4.c9a1f5dfeaae023bedef.jpeg",
+    "static/media/project-3.jpg": "/Projectsfolio/static/media/project-3.6ecee75124496fb9762f.jpg",
+    "static/media/temperature.jpg": "/Projectsfolio/static/media/temperature.2e236e66d04120a4a8e0.jpg",
+    "index.html": "/Projectsfolio/index.html",
+    "main.0a95a400.css.map": "/Projectsfolio/static/css/main.0a95a400.css.map",
+    "main.e4e4329e.js.map": "/Projectsfolio/static/js/main.e4e4329e.js.map"
   },
   "entrypoints": [
     "static/css/main.0a95a400.css",
-    "static/js/main.d723804b.js"
+    "static/js/main.e4e4329e.js"
   ]
 }
