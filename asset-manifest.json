@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Projectsfolio/static/css/main.0a95a400.css",
-    "main.js": "/Projectsfolio/static/js/main.e4e4329e.js",
+    "main.css": "/Projectsfolio/static/css/main.38d8567e.css",
+    "main.js": "/Projectsfolio/static/js/main.4b591c01.js",
     "static/media/foodies-hub.png": "/Projectsfolio/static/media/foodies-hub.cde964e9970cd77e877d.png",
     "static/media/portfolio.png": "/Projectsfolio/static/media/portfolio.c4aa9eea3bb439ed0220.png",
     "static/media/code_editor.png": "/Projectsfolio/static/media/code_editor.dce914d178c3f1822055.png",
@@ -15,11 +15,11 @@
     "static/media/project-3.jpg": "/Projectsfolio/static/media/project-3.6ecee75124496fb9762f.jpg",
     "static/media/temperature.jpg": "/Projectsfolio/static/media/temperature.2e236e66d04120a4a8e0.jpg",
     "index.html": "/Projectsfolio/index.html",
-    "main.0a95a400.css.map": "/Projectsfolio/static/css/main.0a95a400.css.map",
-    "main.e4e4329e.js.map": "/Projectsfolio/static/js/main.e4e4329e.js.map"
+    "main.38d8567e.css.map": "/Projectsfolio/static/css/main.38d8567e.css.map",
+    "main.4b591c01.js.map": "/Projectsfolio/static/js/main.4b591c01.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a95a400.css",
-    "static/js/main.e4e4329e.js"
+    "static/css/main.38d8567e.css",
+    "static/js/main.4b591c01.js"
   ]
 }
