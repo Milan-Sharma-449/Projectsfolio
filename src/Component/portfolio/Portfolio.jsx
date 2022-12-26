@@ -12,6 +12,7 @@ import IMG9 from '../../assets/code_editor.png'
 import IMG10 from '../../assets/temperature.jpg'
 import IMG11 from '../../assets/foodies-hub.png'
 import IMG12 from '../../assets/golds-gym.png'
+import IMG13 from '../../assets/tMovies.png'
 
 const data = [
 	{
@@ -31,6 +32,15 @@ const data = [
 		language: "VSCode, NodeJs, ReactJs, Css, Api's, Git, Gh-pages, PWA",
 		github: 'https://github.com/Milan-Sharma-449/box-office',
 		demo: 'https://milan-sharma-449.github.io/box-office/#/'
+	},
+	{
+		id: 2,
+		image: IMG13,
+		title: "tMovies",
+		subtitle: "Watching free movies online is a convenient and frugal way to see the films you love right from the comfort of your own home. Yes, this is the site where you can get movies info (for free) but the ones listed below, although info also you can watch trailers and, are clean from viruses and completely legal to use.",
+		language: "VSCode, NodeJs, ReactJs, Css, SCss, Api's, TMDB Api, Git, Gh-pages",
+		github: 'https://github.com/Milan-Sharma-449/tMovies',
+		demo: 'https://milan-sharma-449.github.io/tMovies/'
 	},
 	{
 		id: 2,
