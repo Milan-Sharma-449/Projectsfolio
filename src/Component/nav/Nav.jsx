@@ -12,8 +12,8 @@ const[activeNav, setActiveNav] = useState('#')
 
   return (
     <nav>
-      <a href='https://milan-sharma-449.github.io/Portfolio-react/' onClick={() => setActiveNav ('https://milan-sharma-449.github.io/Portfolio-react/')} className={activeNav === '#' ? 'active' : ''} ><AiOutlineHome /></a>
-      <a href='https://milan-sharma-449.github.io/Portfolio-react/' onClick={() => setActiveNav ('https://milan-sharma-449.github.io/Portfolio-react/')} className={activeNav === '#about' ? 'active' : ''} ><TbArrowBackUp /></a>
+      <a href='https://milansharma.me' onClick={() => setActiveNav ('https://milansharma.me')} className={activeNav === '#' ? 'active' : ''} ><AiOutlineHome /></a>
+      <a href='https://milansharma.me' onClick={() => setActiveNav ('https://milansharma.me')} className={activeNav === '#about' ? 'active' : ''} ><TbArrowBackUp /></a>
     </nav>
   )
 }
