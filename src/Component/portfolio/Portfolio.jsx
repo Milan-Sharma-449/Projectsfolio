@@ -14,8 +14,30 @@ import IMG11 from '../../assets/foodies-hub.png'
 import IMG12 from '../../assets/golds-gym.png'
 import IMG13 from '../../assets/tMovies.png'
 import IMG14 from '../../assets/mstube.png'
+import IMG15 from '../../assets/3dportfolio.png'
+import IMG16 from '../../assets/webfolio.png'
 
 const data = [
+	{
+		id: 18,
+		image: IMG15,
+		type: 'react',
+		title: "3d-Portfolio",
+		subtitle: "Build a cool 3D website with fun interactive parts, like a floating island and a fox that moves when you type. It'll allow you to show off my skills.",
+		language: "VSCode, NodeJs, ThreeJs, Css, Git, Gh-pages, Netlify, Hostinger",
+		github: 'https://github.com/Milan-Sharma-449/3d-Portfolio',
+		demo: 'https://milansharma.site'
+	},
+	{
+		id: 19,
+		image: IMG16,
+		type: 'react',
+		title: "Portfolio",
+		subtitle: "Personal is clean, minimal and professional looking portfolio, resume and CV template. It's modern and one page design. This template is suitable for anyone who wants to have a personalized portfolio and resume website with unique style.",
+		language: "VSCode, ReactJs, Css, NextJs",
+		github: 'https://github.com/Milan-Sharma-449/Portfolio-react',
+		demo: 'https://milansharma.site/portfolio'
+	},
 	{
 		id: 1,
 		image: IMG14,
@@ -24,7 +46,7 @@ const data = [
 		subtitle: "StreamTube is a video CMS containing standard features of YouTube that enables you to launch your own video sharing website instantly.",
 		language: "VSCode, NodeJs, ReactJs, Css, RapidApi's, Git, Gh-pages, Netlify",
 		github: 'https://github.com/Milan-Sharma-449/MSTube',
-		demo: 'https://milan-sharma-449.github.io/MSTube/'
+		demo: 'https://milansharma.site/MSTube/'
 	},
 	{
 		id: 2,
@@ -44,7 +66,7 @@ const data = [
 		subtitle: "box-office is a react based website which used to show the description related to the searched Show or Actor such as (About, release date, aired if any, no. of season or episodes, cast, dates) and also you can make your own loved list by starring them.",
 		language: "VSCode, NodeJs, ReactJs, Css, Api's, Git, Gh-pages, PWA",
 		github: 'https://github.com/Milan-Sharma-449/box-office',
-		demo: 'https://milan-sharma-449.github.io/box-office/#/'
+		demo: 'https://milansharma.site/boxoffice'
 	},
 	{
 		id: 4,
@@ -54,7 +76,7 @@ const data = [
 		subtitle: "Watching free movies online is a convenient and frugal way to see the films you love right from the comfort of your own home. Yes, this is the site where you can get movies info (for free) but the ones listed below, although info also you can watch trailers and, are clean from viruses and completely legal to use.",
 		language: "VSCode, NodeJs, ReactJs, Css, SCss, Api's, TMDB Api, Git, Gh-pages",
 		github: 'https://github.com/Milan-Sharma-449/tMovies',
-		demo: 'https://milan-sharma-449.github.io/tMovies/'
+		demo: 'https://milansharma.site/tMovies/'
 	},
 	{
 		id: 5,
@@ -64,7 +86,7 @@ const data = [
 		subtitle: "You can follow the exercises given in the plan to meet your fitness goals. Those who are already-fit and want to maintain this fitness level can choose from hundreds of workout plans already given in the fitness apps. The popular fitness apps also have various workout videos that users can follow to exercise.",
 		language: "VSCode, NodeJs, ReactJs, Css, Git, RapidApi, Gh-pages",
 		github: 'https://github.com/Milan-Sharma-449/gold-s-gym',
-		demo: 'https://github.com/Milan-Sharma-449/gold-s-gym'
+		demo: 'https://milansharma.site/gold-s-gym'
 	},
 	{
 		id: 6,
@@ -74,7 +96,7 @@ const data = [
 		subtitle: "FoodiesHub is a place where you can please your soul and tummy with delicious food recipes of all cuisine. And our service is absolutely free. Also you can see the top chef's and know their new recipes.",
 		language: "VSCode, NodeJs, ReactJs, Css, Git, Gh-pages",
 		github: 'https://github.com/Milan-Sharma-449/foodies-hub',
-		demo: 'https://milan-sharma-449.github.io/foodies-hub/'
+		demo: 'https://milansharma.site/foodies-hub/'
 	},
 	{
 		id: 7,

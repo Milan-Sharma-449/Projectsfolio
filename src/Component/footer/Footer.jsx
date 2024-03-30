@@ -10,8 +10,8 @@ const Footer = () => {
       <a href='#' className='footer__logo'>MILAN</a>
 
       <ul className='permalinks'>
-        <li><a href='https://milansharma.me'>Home</a></li>
-        <li><a href='https://milansharma.me#about'>About</a></li>
+        <li><a href='https://milansharma.site'>Home</a></li>
+        <li><a href='https://milansharma.site#about'>About</a></li>
       </ul>
       <div className='footer__socials'>
       <a href='https://www.facebook.com/milan.sharma.980315/'><FaFacebookF /></a>
