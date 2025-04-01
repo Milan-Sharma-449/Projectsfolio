@@ -16,8 +16,30 @@ import IMG13 from '../../assets/tMovies.png'
 import IMG14 from '../../assets/mstube.png'
 import IMG15 from '../../assets/3dportfolio.png'
 import IMG16 from '../../assets/webfolio.png'
+import IMG17 from '../../assets/CHD_pred.PNG'
+import IMG18 from '../../assets/CADisease_Pred.PNG'
 
 const data = [
+	{
+		id: 20,
+		image: IMG17,
+		type: 'AIML',
+		title: "Ensembling in Prediction Model for CHD (AIML)",
+		subtitle: "Ensembling in prediction models for Coronary Heart Disease (CHD) enhances accuracy by combining multiple models to reduce errors and improve robustness. Techniques like bagging, boosting, and stacking integrate diverse classifiers, mitigating biases and variances in individual models. For CHD prediction, ensembling leverages machine learning algorithms such as logistic regression, decision trees, and neural networks to analyze risk factors like age, cholesterol levels, and lifestyle habits. By aggregating predictions, ensemble models provide a more reliable and precise diagnosis, aiding early detection and prevention. This approach ensures better generalization and improves decision-making in clinical and healthcare applications.",
+		language: "Python, Jupyter Notebook, UCI, Ensembling, Prediction, Machine Learning, Data Processing and Analysis",
+		github: 'https://github.com/Milan-Sharma-449/IACADEC',
+		demo: 'https://github.com/Milan-Sharma-449/IACADEC'
+	},
+	{
+		id: 21,
+		image: IMG18,
+		type: 'AIML',
+		title: "CAD Prediction using ML",
+		subtitle: "Coronary Artery Disease (CAD) prediction using Machine Learning (ML) enhances early diagnosis and risk assessment by analyzing patient data, including medical history, lifestyle, and biomarkers. ML models, such as logistic regression, decision trees, and neural networks, identify patterns and correlations in large datasets, improving accuracy over traditional methods. Features like cholesterol levels, blood pressure, and ECG readings help predict CAD risk. ML-based prediction enables personalized treatment plans, reducing complications and healthcare costs. Advanced techniques, including deep learning and ensemble models, further refine accuracy. Implementing ML in CAD prediction supports early intervention, ultimately improving patient outcomes and survival rates.",
+		language: "Python, Jupyter Notebook, UCI, Kaggle, Prediction, Machine Learning, Data Processing and Analysis",
+		github: 'https://github.com/Milan-Sharma-449/Coronary-Artery-Disease-Prediction-using-ML',
+		demo: 'https://github.com/Milan-Sharma-449/Coronary-Artery-Disease-Prediction-using-ML'
+	},
 	{
 		id: 18,
 		image: IMG15,
